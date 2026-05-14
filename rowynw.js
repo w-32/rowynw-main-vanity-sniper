@@ -422,4 +422,4 @@ l.i(`h2:${CFG.h2} + tls:${CFG.tls} = ${CFG.h2 + CFG.tls}`);
     cn();
 })();
 
-// luceris denen sperm name kasmaya calısan ite selam olsun alsın kullansın 
+// wertcia1988
